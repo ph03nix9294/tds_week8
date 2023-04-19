@@ -1,5 +1,3 @@
-pip install streamlit
-
 import streamlit as st
 
 # Suppress a warning that may appear when using certain plotting libraries in Colab
